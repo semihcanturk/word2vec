@@ -1,0 +1,32 @@
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: What kind of pan do I need?
+Method 1, Step 1
+Method 1, Step 2
+Method 1, Step 6
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: How long do I fry the egg?
+Method 1, Step 5
+Method 1, Step 7
+Method 2, Step 1
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: How much oil do I use?
+Method 1, Step 2
+Method 2, Step 1
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: What do I put the stove on?
+Method 1, Step 1
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: When do I crack the egg into the pan?
+Method 1, Step 4
+Method 2, Step 1
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: How long do I cook the noodles?
+not contained
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: How much water should I drink?
+not contained
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: Drinking water is colder than night.
+not a valid question
+Please enter a query on 'How to Fry an Egg?', or enter 'exit' to exit program
+User Input: exit
